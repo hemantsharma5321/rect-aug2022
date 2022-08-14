@@ -1,0 +1,9 @@
+const sumsq=(arr)=>{
+	let sum=0;
+  for(let num of arr){
+  	sum+=num**2;
+  }
+  return sum;
+}
+arr1=[0,1,2,3,4,5];
+console.log(sumsq(arr1));
