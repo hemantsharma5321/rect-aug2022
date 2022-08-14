@@ -1,0 +1,6 @@
+var arr1=[3,8,7,6,5,-4,-3,2,1];
+const sortarr=(arr)=>{
+	let sortedarr=arr.sort((a,b)=> {return a-b});
+  return sortedarr;
+}
+console.log(sortarr(arr1));
