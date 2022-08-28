@@ -1,0 +1,2 @@
+yes,react use HTML and css to design  react Components.
+react use javascript and jsx to render html contains on webpage.
