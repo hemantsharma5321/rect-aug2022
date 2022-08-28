@@ -1,0 +1,11 @@
+package.json holds important metadata about the project.
+it stores version number and a list of dependencies required by the application.
+
+package.json vs package-lock.json
+
+1. package.json
+The package.json file records the minimum version of different dependencies that your app needs.
+
+2. package-lock.json
+ package-lock.json file is  used to "lock" dependencies to a specific version number, including minor and patch versions.
+ This file keeps track of the the exact version of each installed package which means that future installs will be able to build an identical dependency tree.
