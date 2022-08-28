@@ -1,0 +1,15 @@
+React is a javascript Library.
+
+difference between Library and framework
+
+    1. Library
+
+     A library is just a collection of predefined functions and class definitions.
+       the code that has already been written by other developers.
+       This for make code more reusable and easy for other developers. 
+
+    2. framework
+    
+        A framework is collection of Library.
+        it is more complex than library.
+        It defines a skeleton where the application defines its own features to fill out the skeleton. 
