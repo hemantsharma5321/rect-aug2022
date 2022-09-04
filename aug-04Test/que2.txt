@@ -1,1 +1,6 @@
-1
+Props
+    props stands for properties.
+    it is passed as argument into rect components.
+    it is passed like we pass attribue inside html tag.
+    ex.
+        <Display name="some name" />
