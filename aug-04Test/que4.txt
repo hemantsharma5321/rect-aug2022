@@ -1,0 +1,9 @@
+what is the use of useMemo?
+
+ans.   
+useMemo is a buid in hook of react that allows us to memorize some functions so that we can avoid calling them on 
+every render. we simply pass in a function and an array of inputs and useMemo will only recompute the memoized value
+ when one of the inputs has changed. 
+
+example.
+
