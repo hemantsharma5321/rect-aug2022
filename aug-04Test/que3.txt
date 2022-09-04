@@ -1,0 +1,41 @@
+1.)  Inline css
+
+const Component=() {
+  
+    return (
+      <div>
+      <h1 style={{color: "red"}}>Hello Style!</h1>
+      </div>
+    );
+  
+}
+
+2.) External css
+
+        import "./style.css"
+        
+         const Component2=() {
+  
+    return (
+      <div>
+      <h1 className={bg-light}>Hello Style!</h1>
+      
+      </div>
+    );
+   
+
+}
+
+3.) Adding Modules
+
+    import styles from 'css-module.css'; 
+
+const Component3 =(){
+  
+    return <h1 className={styles.bigblue}>Hello world</h1>;
+  
+}
+
+
+
+ 
