@@ -1,1 +1,6 @@
-1
+Components in react
+
+component in react  is simply a javascrip function but it return some html to render.
+components are basic building block of react application.
+
+
